@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App {
+  width: 900px;
+  margin: auto;
+}
+
+ul {
+  list-style: none;
+}
